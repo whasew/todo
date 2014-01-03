@@ -15,13 +15,13 @@ Sporadisch
 
 - Mitwochs: Alpenvereinswanderung
 - Samstag: Oper mit Merkle's
-- 
+
 
 Git
 ===
 
 latest git version ubuntu:
-[git\                                                                        update](http://stackoverflow.com/questions/14409639/unable-to-update-git-on-ubu\
+[git                                                                      update](http://stackoverflow.com/questions/14409639/unable-to-update-git-on-ubu\
 ntu)
 
 - start und Tutorial: www.github.com
