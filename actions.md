@@ -2,6 +2,19 @@
 % Willi  
 % 3.Jan 2014  
 
+Dringend
+========
+- Miete 762,66€ überweisen 
+- Canon cash-back: 
+- Isotretinoin Paper
+- cytonet projekt
+- DAK Steuerbescheid 2012
+
+Wichtig
+=======
+- 21. Badminthon Oberursel zusagen
+- Mitwochswanderung zusagen
+
 
 Wöchentlich
 ===========
