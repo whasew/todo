@@ -4,7 +4,7 @@
 
 Dringend
 ========
-- Miete 762,66€ überweisen 
+- aktuelle Rechnungen
 - Canon cash-back: 
 - Isotretinoin Paper
 - cytonet projekt
@@ -12,8 +12,7 @@ Dringend
 
 Wichtig
 =======
-- 21. Badminthon Oberursel zusagen
-- Mitwochswanderung zusagen
+- Fr 24.1. Badminthon Oberursel
 
 
 Wöchentlich
@@ -22,6 +21,10 @@ Wöchentlich
 - Mitwochs: Chor
 - Sonntags: Badminthon
 
+monatlich
+=========
+- Miete 762,66€ überweisen 
+- Mittwochswanderung 
 
 Sporadisch
 ==========
