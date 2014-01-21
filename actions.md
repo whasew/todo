@@ -1,14 +1,15 @@
 % Aufgabenliste  
 % Willi  
-% 3.Jan 2014  
+% Jan 2014  
 
 Dringend
 ========
-- aktuelle Rechnungen
+- aktuelle Rechnungen: Reichsgraf, Kaffe, Haut
 - Canon cash-back: 
 - Isotretinoin Paper
 - cytonet projekt
 - DAK Steuerbescheid 2012
+- PAGE bezahlen
 
 Wichtig
 =======
@@ -17,7 +18,7 @@ Wichtig
 
 Wöchentlich
 ===========
-
+- Dienstag 9:30 Gymnastik
 - Mitwochs: Chor
 - Sonntags: Badminthon
 
