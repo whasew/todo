@@ -3,5 +3,5 @@ todo
 
 Nichts mehr vergessen
 
-- lerne git auf https://github.com/whasew/simStudy/blob/master/design/sub1.md
-- 
+- lerne git auf 
+- http://www.effectivetrainings.de/blog/2010/01/18/remote-repositories-mit-git-einrichten/
