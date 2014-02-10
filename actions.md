@@ -1,27 +1,31 @@
 % Aufgabenliste  
 % Willi  
-% 3.Jan 2014  
+% Jan 2014  
 
 Dringend
 ========
-- Miete 762,66€ überweisen 
+- aktuelle Rechnungen: Reichsgraf, Kaffe, Haut
 - Canon cash-back: 
 - Isotretinoin Paper
 - cytonet projekt
 - DAK Steuerbescheid 2012
+- PAGE bezahlen
 
 Wichtig
 =======
-- 21. Badminthon Oberursel zusagen
-- Mitwochswanderung zusagen
+- Fr 24.1. Badminthon Oberursel
 
 
 Wöchentlich
 ===========
-
+- Dienstag 9:30 Gymnastik
 - Mitwochs: Chor
 - Sonntags: Badminthon
 
+monatlich
+=========
+- Miete 762,66€ überweisen 
+- Mittwochswanderung 
 
 Sporadisch
 ==========
